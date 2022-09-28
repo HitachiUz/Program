@@ -1,0 +1,15 @@
+C:\Geek\Program\Settings2\bin\Debug\net6.0\Settings2.exe
+C:\Geek\Program\Settings2\bin\Debug\net6.0\Settings2.deps.json
+C:\Geek\Program\Settings2\bin\Debug\net6.0\Settings2.runtimeconfig.json
+C:\Geek\Program\Settings2\bin\Debug\net6.0\Settings2.dll
+C:\Geek\Program\Settings2\bin\Debug\net6.0\Settings2.pdb
+C:\Geek\Program\Settings2\obj\Debug\net6.0\Settings2.csproj.AssemblyReference.cache
+C:\Geek\Program\Settings2\obj\Debug\net6.0\Settings2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geek\Program\Settings2\obj\Debug\net6.0\Settings2.AssemblyInfoInputs.cache
+C:\Geek\Program\Settings2\obj\Debug\net6.0\Settings2.AssemblyInfo.cs
+C:\Geek\Program\Settings2\obj\Debug\net6.0\Settings2.csproj.CoreCompileInputs.cache
+C:\Geek\Program\Settings2\obj\Debug\net6.0\Settings2.dll
+C:\Geek\Program\Settings2\obj\Debug\net6.0\refint\Settings2.dll
+C:\Geek\Program\Settings2\obj\Debug\net6.0\Settings2.pdb
+C:\Geek\Program\Settings2\obj\Debug\net6.0\Settings2.genruntimeconfig.cache
+C:\Geek\Program\Settings2\obj\Debug\net6.0\ref\Settings2.dll
